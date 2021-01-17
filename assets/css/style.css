@@ -695,7 +695,7 @@ section {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #2dc997;
+  background: #333;
 }
 
 #projects .icon a {
@@ -704,7 +704,7 @@ section {
 
 #projects .icon i {
   color: #fff;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 #projects .box:hover .icon {
