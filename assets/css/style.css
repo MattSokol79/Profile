@@ -643,26 +643,6 @@ section {
   font-size: 14px;
 }
 
-/* Facts Section
---------------------------------*/
-#facts {
-  background: #f7f7f7;
-  padding: 80px 0 60px 0;
-}
-
-#facts .counters span {
-  font-size: 48px;
-  display: block;
-  color: #2dc997;
-}
-
-#facts .counters p {
-  padding: 0;
-  margin: 0 0 20px 0;
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-}
-
 /* Projects Section
 --------------------------------*/
 #projects {
@@ -676,7 +656,7 @@ section {
   margin-bottom: 50px;
   text-align: center;
   border: 1px solid #e6e6e6;
-  height: 200px;
+  height: 450px;
   position: relative;
   background: #fafafa;
 }
